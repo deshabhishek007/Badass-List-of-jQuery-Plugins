@@ -70,6 +70,13 @@ If you want to add anything new, just fork this repo and send me a pull request.
 [![GitHub forks](https://img.shields.io/github/forks/mailcheck/mailcheck.svg?style=social&label=Fork)](https://github.com/mailcheck/mailcheck)
 [![downloads](https://img.shields.io/npm/dm/mailcheck.svg)](https://npmjs.org/package/mailcheck)
 
+* [Range Slider Js](https://github.com/andreruffert/rangeslider.js): Simple, small and fast JavaScript/jQuery polyfill for the HTML5 `<input type="range">` slider element. (https://rangeslider.js.org/)
+
+>
+[![GitHub stars](https://img.shields.io/github/stars/andreruffert/rangeslider.js.svg?style=social&label=Star)](https://github.com/andreruffert/rangeslider.js)
+[![GitHub forks](https://img.shields.io/github/forks/andreruffert/rangeslider.js.svg?style=social&label=Fork)](https://github.com/andreruffert/rangeslider.js)
+[![downloads](https://img.shields.io/npm/dm/rangeslider.js.svg)](https://www.npmjs.com/package/rangeslider.js)
+
 ## UI Elements - Calendar
 
 * [Flatpickr](https://github.com/chmln/flatpickr): A lightweight & powerful datetimepicker
